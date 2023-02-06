@@ -88,3 +88,6 @@
 .bdrs-20 {
     border-radius: 20px;
 }
+.cr-p {
+    cursor: pointer;
+}
